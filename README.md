@@ -63,8 +63,3 @@ Today’s task focused on implementing a basic **machine learning regression pip
 
 ---
 
-## 🔗 Author
-
-**Kapil Gupta**  
-Machine Learning Intern  
-[GitHub Profile](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourname)
